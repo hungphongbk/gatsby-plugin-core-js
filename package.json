@@ -1,16 +1,16 @@
 {
   "name": "gatsby-plugin-core-js",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Polyfill gatsby with core-js",
   "main": "index.js",
-  "author": "Lloyd Hobden <lloydh@bluewaterweb.co.uk>",
+  "author": "Truong Hung Phong <programmingd32@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lloydh/gatsby-plugin-core-js"
+    "url": "https://github.com/hungphongbk/gatsby-plugin-core-js"
   },
   "bugs": {
-    "url": "https://github.com/lloydh/gatsby-plugin-core-js/issues"
+    "url": "https://github.com/hungphongbk/gatsby-plugin-core-js/issues"
   },
   "homepage": "https://github.com/Creatiwity/gatsby-plugin-core-js#readme",
   "keywords": [
@@ -20,9 +20,9 @@
   ],
   "readme": "README.md",
   "dependencies": {
-    "core-js": "^2.5.3"
+    "core-js": "^3.0.1"
   },
   "peerDependencies": {
-    "gatsby": "^1.0.0"
+    "gatsby": "^2.3.14"
   }
 }
